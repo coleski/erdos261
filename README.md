@@ -95,3 +95,9 @@ $$
 $$
 
 This non-greedy path ends at 46; the corresponding greedy path ends at 392.
+
+## Formal verification
+
+[`Erdos261ResidualPair.lean`](Erdos261ResidualPair.lean) proves the
+residual-pair lemma in Lean without `sorry` or additional axioms. It compiles
+against the Mathlib revision pinned by Jig problem 352.
