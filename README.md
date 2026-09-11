@@ -2,6 +2,7 @@
 
 This repository records a structural reduction for the finite-representation
 part of [Erdős problem 261](https://www.erdosproblems.com/261).
+The same scoped assertion is [statement 8 on Jig](https://jig.so/p/352?s=8).
 
 For \(w(k)=k/2^k\), the open question asks whether every positive integer
 \(n\) has a finite set \(A\) of at least two distinct positive integers with
@@ -103,4 +104,3 @@ Tengely–Ulas–Zygadło (2020), the Erdős Problem a Day report, and the exist
 Jig problem graph. Those sources describe greedy or finite-computational
 progress; they did not state this complementary-pair formulation. That is a
 limited prior-art check, not a claim that no equivalent observation exists.
-
