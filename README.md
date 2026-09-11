@@ -95,12 +95,3 @@ For example, it finds
 \]
 
 This non-greedy path ends at 46; the corresponding greedy path ends at 392.
-
-## Status and provenance
-
-Recovered from an exploratory Codex transcript dated 2026-09-11. Public
-sources checked in that investigation included the Erdős Problems page,
-Tengely–Ulas–Zygadło (2020), the Erdős Problem a Day report, and the existing
-Jig problem graph. Those sources describe greedy or finite-computational
-progress; they did not state this complementary-pair formulation. That is a
-limited prior-art check, not a claim that no equivalent observation exists.
